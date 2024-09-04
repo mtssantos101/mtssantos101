@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @mtssantos101
-- 👀 I’m interested in put my teachings into practice
 - 🌱 I’m currently learning Java, AWS
-- 💞️ I’m looking to collaborate on open source projects ans others 
 - 📫 How to reach me: email, linkedin.
